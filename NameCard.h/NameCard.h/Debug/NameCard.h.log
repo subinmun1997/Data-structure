@@ -1,0 +1,11 @@
+﻿  ArrayList.c
+  NameCard.c
+C:\Users\qzxy8\Desktop\NameCard.h\NameCard.h\NameCard.c(8,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\qzxy8\Desktop\NameCard.h\NameCard.h\NameCard.c(9,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\qzxy8\Desktop\NameCard.h\NameCard.h\NameCard.c(23,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  NameCardListMain.c
+C:\Users\qzxy8\Desktop\NameCard.h\NameCard.h\NameCardListMain.c(12,17): warning C4133: '함수': 'char [6]'과(와) 'List *' 사이의 형식이 호환되지 않습니다.
+C:\Users\qzxy8\Desktop\NameCard.h\NameCard.h\NameCardListMain.c(15,17): warning C4133: '함수': 'char [6]'과(와) 'List *' 사이의 형식이 호환되지 않습니다.
+C:\Users\qzxy8\Desktop\NameCard.h\NameCard.h\NameCardListMain.c(18,17): warning C4133: '함수': 'char [6]'과(와) 'List *' 사이의 형식이 호환되지 않습니다.
+C:\Users\qzxy8\Desktop\NameCard.h\NameCard.h\NameCardListMain.c(35,18): warning C4013: 'ChangePhoneNum'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  코드를 생성하고 있습니다...
