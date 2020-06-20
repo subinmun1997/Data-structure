@@ -1,0 +1,12 @@
+﻿  DLinkedList.c
+C:\Users\qzxy8\Desktop\DLinkedList\DLinkedList\DLinkedList.c(30,6): error C2371: 'LFirst': 재정의. 기본 형식이 다릅니다.
+C:\Users\qzxy8\Desktop\DLinkedList\DLinkedList\DLinkedList.h(28): message : 'LFirst' 선언을 참조하십시오.
+C:\Users\qzxy8\Desktop\DLinkedList\DLinkedList\DLinkedList.c(32,15): warning C4098: 'LFirst': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\qzxy8\Desktop\DLinkedList\DLinkedList\DLinkedList.c(38,13): warning C4098: 'LFirst': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\qzxy8\Desktop\DLinkedList\DLinkedList\DLinkedList.c(40,6): error C2371: 'LNext': 재정의. 기본 형식이 다릅니다.
+C:\Users\qzxy8\Desktop\DLinkedList\DLinkedList\DLinkedList.h(29): message : 'LNext' 선언을 참조하십시오.
+C:\Users\qzxy8\Desktop\DLinkedList\DLinkedList\DLinkedList.c(42,15): warning C4098: 'LNext': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\qzxy8\Desktop\DLinkedList\DLinkedList\DLinkedList.c(48,13): warning C4098: 'LNext': 'void' 함수에서 값을 반환하고 있습니다.
+  DLinkedListMain.c
+C:\Users\qzxy8\Desktop\DLinkedList\DLinkedList\DLinkedListMain.c(9,9): warning C4013: 'LInsert'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  코드를 생성하고 있습니다...
