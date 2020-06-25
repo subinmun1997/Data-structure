@@ -1,0 +1,6 @@
+﻿  CLinkedList.c
+  CLinkedListMain.c
+C:\Users\qzxy8\Desktop\CLinkedList.h\CLinkedList.h\CLinkedListMain.c(9,9): warning C4013: 'LInsert'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\qzxy8\Desktop\CLinkedList.h\CLinkedList.h\CLinkedListMain.c(12,14): warning C4013: 'LInsertFront'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  코드를 생성하고 있습니다...
+  CLinkedList.h.vcxproj -> C:\Users\qzxy8\Desktop\CLinkedList.h\Debug\CLinkedList.h.exe
